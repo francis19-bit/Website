@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  outline: 0;
+  border: 0;
+  /* list-style: none; */
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+
+.length{
+  margin: 0 auto;
+  width: 100%;
+  /* background: rgb(33, 32, 32); */
+}
+.leng{
+  margin: 0 auto;
+  width: 80%;
+  /* background: rgb(33, 32, 32); */
+}
+.port{
+  margin: 0 auto;
+  width: 100%;
+  /* background: rgb(33, 32, 32); */
+}
